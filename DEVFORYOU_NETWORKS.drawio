@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:49:03.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8FoWhDB6or00v4H8tnfn" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:49:20.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7-a0R5ufirufBDCXyAx0" version="21.6.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
         <mxCell id="YZo__M504asKzx0dwhzR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZo__M504asKzx0dwhzR-3" target="YZo__M504asKzx0dwhzR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YZo__M504asKzx0dwhzR-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="360" y="140" width="195" height="100" as="geometry" />
+        <mxCell id="YZo__M504asKzx0dwhzR-3" value="PROD02-UNIT" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="130" width="195" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YZo__M504asKzx0dwhzR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZo__M504asKzx0dwhzR-4" target="6a7d8f32e03d9370-60">
           <mxGeometry relative="1" as="geometry" />
