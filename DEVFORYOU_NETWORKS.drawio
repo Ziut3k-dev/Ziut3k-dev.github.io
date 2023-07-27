@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:53:15.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gk1DcZ_L8v8A00EmEHLk" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:53:36.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3UPYV5cJ1OhlNxW6PDQh" version="21.6.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1434" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -63,7 +63,7 @@
         <mxCell id="YZo__M504asKzx0dwhzR-4" value="PROD01-UNIT" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="710" y="901" width="195" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YZo__M504asKzx0dwhzR-2" value="PROD02" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;spacing=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="YZo__M504asKzx0dwhzR-2" value="PROD02-CT" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;horizontal=1;spacing=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="YZo__M504asKzx0dwhzR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.314;entryY=0.523;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YZo__M504asKzx0dwhzR-11" target="YZo__M504asKzx0dwhzR-13">
