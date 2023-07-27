@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:51:13.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EN4Y4mrLsPMgoaq_ASCe" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:51:26.798Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Pm9iL11myjOyI8RQvyef" version="21.6.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -89,10 +89,14 @@
           <mxGeometry x="1028" y="84" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="YZo__M504asKzx0dwhzR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YZo__M504asKzx0dwhzR-13" target="gzcZ7XhqMTSILQYHEo6I-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1215" y="603" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YZo__M504asKzx0dwhzR-13" value="EDGE ROUTER" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router_with_firewall;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
-          <mxGeometry x="1491" y="570" width="86" height="86" as="geometry" />
+          <mxGeometry x="1480" y="560" width="86" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
