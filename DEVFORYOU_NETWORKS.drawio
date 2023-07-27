@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T07:52:33.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DYXtnKmiuOggfmfl40ei" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T07:52:39.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NQfVpJjxP-dquxdfJR6V" version="21.6.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -84,6 +84,9 @@
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-15" value="WEB PROXY MANAGER" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="338" width="71" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YZo__M504asKzx0dwhzR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-13" target="6a7d8f32e03d9370-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-13" value="HAPROXY" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.router;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="569" width="55" height="36.5" as="geometry" />
